@@ -500,14 +500,6 @@
                     }
                 },
                 {
-                    "ElementName":"Source",
-                    "targetUninit":{
-                        "id":"Trigger:按键1_1:1515797188",
-                        "packageName":"p_wbud",
-                        "s_or_c":"server"
-                    }
-                },
-                {
                     "ElementName":"Folder",
                     "breakPointInfo":{
                         "disabled":false,
@@ -690,6 +682,14 @@
                         }
                     },
                     "tips":""
+                },
+                {
+                    "ElementName":"Source",
+                    "targetUninit":{
+                        "id":"Trigger:按键1_1:1515797188",
+                        "packageName":"p_wbud",
+                        "s_or_c":"server"
+                    }
                 }
             ]
         },

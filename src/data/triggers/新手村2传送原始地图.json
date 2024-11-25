@@ -1270,6 +1270,7 @@
         },
         "tips":""
     },
+    "v2_version":0.900000,
     "variables":{
         "__TYPE":"Array",
         "contents":{
