@@ -1,0 +1,25 @@
+{
+	"MapDisplayName": "空白（单人V2）",
+	"HideTileDeco": true,
+	"EnableGAO": false,
+	"GuideURL": "http://pt.master.sce.xd.com/editor_app.html",
+	"ProjectName": "p_wbud",
+	"TriggerEditorMode": "V2",
+	"MechanismMode": "BOTH",
+	"TemplateName": "single_simple_ts",
+	"EnableSetScoreName": true,
+	"IsLib": false,
+	"Accessable": false,
+	"TestMapPath": "",
+	"PackEffect": true,
+	"LibForEditor": false,
+	"api_version": {
+		"api_version": 10,
+		"show_name": "2024.10"
+	},
+	"LodOffset": [
+		0,
+		0,
+		0
+	]
+}

@@ -1,0 +1,1276 @@
+{
+	"冰属性伤害": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "+",
+				"Rect": {
+					"X": 1,
+					"Y": 130,
+					"Width": 210,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 762,
+					"Y": 1,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 403,
+					"Y": 112,
+					"Width": 50,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 829,
+					"Y": 1,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 760,
+					"Y": 112,
+					"Width": 65,
+					"Height": 106
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 135,
+					"Y": 232,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 1,
+					"Y": 232,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 492,
+					"Y": 223,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 68,
+					"Y": 1,
+					"Width": 65,
+					"Height": 127
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 397,
+					"Y": 325,
+					"Width": 62,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 342,
+					"Y": 1,
+					"Width": 71,
+					"Height": 109
+				}
+			}
+		]
+	},
+	"受击": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 591,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 617,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 643,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 669,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 695,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 955,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 565,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 454,
+					"Y": 444,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 105,
+					"Y": 451,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 131,
+					"Y": 451,
+					"Width": 24,
+					"Height": 37
+				}
+			}
+		]
+	},
+	"回血": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "+",
+				"Rect": {
+					"X": 501,
+					"Y": 325,
+					"Width": 32,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 539,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 565,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 591,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 617,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 643,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 825,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 799,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 157,
+					"Y": 451,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 747,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 721,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			}
+		]
+	},
+	"毒属性伤害": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "+",
+				"Rect": {
+					"X": 559,
+					"Y": 220,
+					"Width": 210,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 336,
+					"Y": 112,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 455,
+					"Y": 112,
+					"Width": 50,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 269,
+					"Y": 112,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 626,
+					"Y": 112,
+					"Width": 65,
+					"Height": 106
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 827,
+					"Y": 322,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 894,
+					"Y": 322,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 202,
+					"Y": 325,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 202,
+					"Y": 1,
+					"Width": 65,
+					"Height": 127
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 961,
+					"Y": 322,
+					"Width": 62,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 488,
+					"Y": 1,
+					"Width": 71,
+					"Height": 109
+				}
+			}
+		]
+	},
+	"法伤": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "+",
+				"Rect": {
+					"X": 271,
+					"Y": 466,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 721,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 513,
+					"Y": 442,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 487,
+					"Y": 442,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 773,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 116,
+					"Y": 334,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 142,
+					"Y": 334,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 168,
+					"Y": 334,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 501,
+					"Y": 364,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 527,
+					"Y": 364,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 461,
+					"Y": 366,
+					"Width": 24,
+					"Height": 37
+				}
+			}
+		]
+	},
+	"法爆": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 116,
+					"Y": 373,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 142,
+					"Y": 373,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 168,
+					"Y": 373,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 487,
+					"Y": 403,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 513,
+					"Y": 403,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 461,
+					"Y": 405,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 116,
+					"Y": 412,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 142,
+					"Y": 412,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 168,
+					"Y": 412,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 539,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			}
+		]
+	},
+	"火属性伤害": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "+",
+				"Rect": {
+					"X": 213,
+					"Y": 223,
+					"Width": 210,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 695,
+					"Y": 1,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 963,
+					"Y": 1,
+					"Width": 50,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 561,
+					"Y": 1,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 559,
+					"Y": 112,
+					"Width": 65,
+					"Height": 106
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 559,
+					"Y": 322,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 68,
+					"Y": 232,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 760,
+					"Y": 322,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 1,
+					"Y": 1,
+					"Width": 65,
+					"Height": 127
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 333,
+					"Y": 325,
+					"Width": 62,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 415,
+					"Y": 1,
+					"Width": 71,
+					"Height": 109
+				}
+			}
+		]
+	},
+	"物爆": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 851,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 877,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 903,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 929,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 955,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 981,
+					"Y": 424,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 1,
+					"Y": 426,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 27,
+					"Y": 426,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 53,
+					"Y": 426,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 79,
+					"Y": 426,
+					"Width": 24,
+					"Height": 37
+				}
+			}
+		]
+	},
+	"物理": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 194,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 220,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 246,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 272,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 298,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 324,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 350,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 376,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 402,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 428,
+					"Y": 427,
+					"Width": 24,
+					"Height": 37
+				}
+			}
+		]
+	},
+	"状态": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 1,
+					"Y": 334,
+					"Width": 104,
+					"Height": 45
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 1,
+					"Y": 381,
+					"Width": 113,
+					"Height": 43
+				}
+			}
+		]
+	},
+	"经验": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "+",
+				"Rect": {
+					"X": 249,
+					"Y": 466,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 227,
+					"Y": 466,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 205,
+					"Y": 466,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 183,
+					"Y": 466,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 67,
+					"Y": 465,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 45,
+					"Y": 465,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 23,
+					"Y": 465,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 1,
+					"Y": 465,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 1003,
+					"Y": 463,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 981,
+					"Y": 463,
+					"Width": 20,
+					"Height": 27
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 293,
+					"Y": 466,
+					"Width": 20,
+					"Height": 27
+				}
+			}
+		]
+	},
+	"金币": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "$",
+				"Rect": {
+					"X": 461,
+					"Y": 325,
+					"Width": 38,
+					"Height": 39
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 747,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 773,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 799,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 825,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 851,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 877,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 903,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 929,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 695,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 669,
+					"Y": 463,
+					"Width": 24,
+					"Height": 37
+				}
+			}
+		]
+	},
+	"雷属性伤害": {
+		"AtlasOffset": [
+			0,
+			0
+		],
+		"CharSet": [
+			{
+				"Char": "+",
+				"Rect": {
+					"X": 771,
+					"Y": 220,
+					"Width": 210,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "0",
+				"Rect": {
+					"X": 628,
+					"Y": 1,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "1",
+				"Rect": {
+					"X": 507,
+					"Y": 112,
+					"Width": 50,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "2",
+				"Rect": {
+					"X": 896,
+					"Y": 1,
+					"Width": 65,
+					"Height": 109
+				}
+			},
+			{
+				"Char": "3",
+				"Rect": {
+					"X": 693,
+					"Y": 112,
+					"Width": 65,
+					"Height": 106
+				}
+			},
+			{
+				"Char": "4",
+				"Rect": {
+					"X": 626,
+					"Y": 322,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "5",
+				"Rect": {
+					"X": 693,
+					"Y": 322,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "6",
+				"Rect": {
+					"X": 425,
+					"Y": 223,
+					"Width": 65,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "7",
+				"Rect": {
+					"X": 135,
+					"Y": 1,
+					"Width": 65,
+					"Height": 127
+				}
+			},
+			{
+				"Char": "8",
+				"Rect": {
+					"X": 269,
+					"Y": 325,
+					"Width": 62,
+					"Height": 100
+				}
+			},
+			{
+				"Char": "9",
+				"Rect": {
+					"X": 269,
+					"Y": 1,
+					"Width": 71,
+					"Height": 109
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,4 @@
+{
+    "[ModuleType][wsah_equipment].DisplayName":"词缀洗练",
+    "[NodeType][$$p_wbud.wsah_equipment.词缀池].DisplayName":"词缀池"
+}

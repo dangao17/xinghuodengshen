@@ -1,0 +1,1 @@
+{"debug_settings":{"show_info_panel":true}}
